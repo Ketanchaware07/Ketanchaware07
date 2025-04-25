@@ -57,7 +57,7 @@ Simulated decoy environments to detect and analyze malicious attacks with action
 ## 🌐 Let's Connect
 
 - *Email*: ketanchaware72@gmail.com  
-- *LinkedIn*: [linkedin.com/in/ketan-chaware-02681320a](http://linkedin.com/in/ketan-chaware-02681320a)  
+- *LinkedIn*: https://www.linkedin.com/in/ketanchaware/ 
 - *Location*: Calgary, AB (Willing to Relocate)
 
 ---
